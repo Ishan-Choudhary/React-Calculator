@@ -1,0 +1,11 @@
+.mainCalculator {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.mainCalculator input {
+  border: solid 1px black;
+  width: 200px;
+  margin-bottom: 10px;
+}
