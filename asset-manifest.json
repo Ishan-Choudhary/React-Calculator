@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ishan-Choudhary/React-Calculator/static/css/main.910adc29.css",
+    "main.js": "/Ishan-Choudhary/React-Calculator/static/js/main.ab89f69f.js",
+    "index.html": "/Ishan-Choudhary/React-Calculator/index.html",
+    "main.910adc29.css.map": "/Ishan-Choudhary/React-Calculator/static/css/main.910adc29.css.map",
+    "main.ab89f69f.js.map": "/Ishan-Choudhary/React-Calculator/static/js/main.ab89f69f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910adc29.css",
+    "static/js/main.ab89f69f.js"
+  ]
+}
